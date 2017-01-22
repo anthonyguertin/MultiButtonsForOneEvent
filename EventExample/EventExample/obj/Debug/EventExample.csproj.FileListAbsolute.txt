@@ -1,0 +1,14 @@
+c:\users\someoneelse\documents\visual studio 2017\Projects\EventExample\EventExample\bin\Debug\EventExample.exe.config
+c:\users\someoneelse\documents\visual studio 2017\Projects\EventExample\EventExample\bin\Debug\EventExample.exe
+c:\users\someoneelse\documents\visual studio 2017\Projects\EventExample\EventExample\bin\Debug\EventExample.pdb
+c:\users\someoneelse\documents\visual studio 2017\Projects\EventExample\EventExample\obj\Debug\EventExample.csprojResolveAssemblyReference.cache
+c:\users\someoneelse\documents\visual studio 2017\Projects\EventExample\EventExample\obj\Debug\MainWindow.g.cs
+c:\users\someoneelse\documents\visual studio 2017\Projects\EventExample\EventExample\obj\Debug\App.g.cs
+c:\users\someoneelse\documents\visual studio 2017\Projects\EventExample\EventExample\obj\Debug\EventExample_MarkupCompile.cache
+c:\users\someoneelse\documents\visual studio 2017\Projects\EventExample\EventExample\obj\Debug\EventExample_MarkupCompile.lref
+c:\users\someoneelse\documents\visual studio 2017\Projects\EventExample\EventExample\obj\Debug\MainWindow.baml
+c:\users\someoneelse\documents\visual studio 2017\Projects\EventExample\EventExample\obj\Debug\EventExample.g.resources
+c:\users\someoneelse\documents\visual studio 2017\Projects\EventExample\EventExample\obj\Debug\EventExample.Properties.Resources.resources
+c:\users\someoneelse\documents\visual studio 2017\Projects\EventExample\EventExample\obj\Debug\EventExample.csproj.GenerateResource.Cache
+c:\users\someoneelse\documents\visual studio 2017\Projects\EventExample\EventExample\obj\Debug\EventExample.exe
+c:\users\someoneelse\documents\visual studio 2017\Projects\EventExample\EventExample\obj\Debug\EventExample.pdb
